@@ -17,12 +17,11 @@ def fibonacci(n):
 def factorial(n):
     result = 1
     count = 2
-
-   while count <= n:
-       result = result * count
-       count = count + 1
-
-   return result
+    while count <= n:
+        result = result * count
+        count = count + 1
+    return result
+print(factorial(5))
 
 def reverse(word):
 
