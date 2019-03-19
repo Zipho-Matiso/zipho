@@ -21,7 +21,7 @@ def factorial(n):
         result = result * count
         count = count + 1
     return result
-print(factorial(5))
+#print(factorial(5))
 
 def reverse(word):
 
