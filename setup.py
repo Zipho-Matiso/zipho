@@ -10,5 +10,5 @@ setup(
     install_requires=['numpy'],
     url='https://github.com/Zipho-Matiso/zipho',
     author='Zipho',
-    author_email='zipohmts@gmail.com'
+    author_email='<zipohmts@gmail.com>'
     )
